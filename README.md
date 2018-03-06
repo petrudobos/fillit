@@ -23,6 +23,6 @@ Test the functions with your own main function and inputs.
 
 ## License
 
-[MIT © Petru Dobos.](https://github.com/petrudobos/libft/blob/master/LICENSE)
+[MIT © Petru Dobos.](https://github.com/petrudobos/fillit/blob/master/LICENSE)
 
 [1]: https://github.com/petrudobos/fillit/blob/master/fillit.en.pdf
